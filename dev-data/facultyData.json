@@ -1,0 +1,866 @@
+[
+    {
+
+
+            "stream":"CSE",
+            "name": "Dr. Minakshi Banerjee",
+            "degree": "PhD (Engg.)",
+            "dob" : "01.09.2008",
+            "designation" : "Professor",
+            "email" : "minakshi.banerjee@rcciit.org.in",
+            "image": ""
+
+    },
+    {
+
+
+            "stream":"CSE",
+            "name": "Mr. Harinandan Tunga",
+            "degree": "M.Tech (CSE)",
+            "dob" : "10.06.2004",
+            "designation" : "Associate Professor",
+            "email" : "harinandan.tunga@rcciit.org.in",
+            "image": ""
+
+    },
+    {
+
+
+            "stream":"CSE",
+            "name": "Dr. Dipankar Majumdar",
+            "degree": "PhD (Engg.)",
+            "dob" : "02.09.2010",
+            "designation" : "Professor",
+            "email" : "dipankar.majumdar@rcciit.org.in",
+            "image": ""
+
+    },
+    {
+
+
+            "stream":"CSE",
+            "name": "Mr. Rajib Saha",
+            "degree": "M.Tech (CT)",
+            "dob" : "01.03.2007",
+            "designation" : "Assistant Professor",
+            "email" : "rajib.saha@rcciit.org.in",
+            "image": ""
+
+    },
+    {
+
+
+            "stream":"CSE",
+            "name": "Mr. Jaydip Mukhopadhyay",
+            "degree": "M.Tech (CSA)",
+            "dob" : "01.09.2006",
+            "designation" : "Assistant Professor",
+            "email" : "jaydip.mukhopadhyay@rcciit.org.in",
+            "image": ""
+
+    },
+    {
+
+
+            "stream":"CSE",
+            "name": "Mr. Koushik Mallick",
+            "degree": "ME (CSE)",
+            "dob" : "03.08.2009",
+            "designation" : "Assistant Professor",
+            "email" : "koushik.mallick@rcciit.org.in",
+            "image": ""
+
+    },
+    {
+
+
+            "stream":"CSE",
+            "name": "Mrs. Sukla Banerjee",
+            "degree": "M.Tech (IT)",
+            "dob" : "09.01.2006",
+            "designation" : "Assistant Professor",
+            "email" : "sukla.banerjee@rcciit.org.in",
+            "image": ""
+
+    },
+    {
+
+
+            "stream":"CSE",
+            "name": "asdklfjsd",
+            "degree": "dsfdf",
+            "dob" : "24-03-1993",
+            "designation" : "Professor",
+            "email" : "sklfjaeiosfj@rcciit.org.in",
+            "image": ""
+
+    },
+    {
+
+
+            "stream":"CSE",
+            "name": "Sk Mazharul Islam",
+            "degree": "ME (IT)",
+            "dob" : "16.07.2010",
+            "designation" : "Assistant Professor",
+            "email" : "mazharul.islam@rcciit.org.in",
+            "image": ""
+
+    },
+    {
+
+
+            "stream":"CSE",
+            "name": "Dr. Anup Kumar Kolya",
+            "degree": "PhD (Engg.)",
+            "dob" : "02.05.2014",
+            "designation" : "Assistant Professor",
+            "email" : "anupkumar.kolya@rcciit.org.in",
+            "image": ""
+
+    },
+    {
+
+
+            "stream":"CSE",
+            "name": "Dr. Parama Bagchi,",
+            "degree": "PhD (Engg.)",
+            "dob" : "04.06.2014",
+            "designation" : "Assistant Professor",
+            "email" : "parama.bagchi@rcciit.org.in",
+            "image": ""
+
+    },
+    {
+
+
+            "stream":"CSE",
+            "name": "Mrs. Monika Singh",
+            "degree": "M.Tech (CSE)",
+            "dob" : "04.06.2014",
+            "designation" : "Assistant Professor",
+            "email" : "monika.singh@rcciit.org.in",
+            "image": ""
+
+    },
+    {
+
+
+            "stream":"CSE",
+            "name": "Mr. Somenath Nag Choudhury",
+            "degree": "M.Tech (CSE)",
+            "dob" : "01.03.2016",
+            "designation" : "Assistant Professor",
+            "email" : "somenathnag.choudhury@rcciit.org.in",
+            "image": ""
+
+    },
+    {
+
+
+            "stream":"CSE",
+            "name": "Mr. Arup Kumar Bhattacharjee",
+            "degree": "M.Tech (SE)",
+            "dob" : "09.01.2006",
+            "designation" : "Assistant Professor",
+            "email" : "arupkumar.bhattacharjee@rcciit.org.in",
+            "image": ""
+
+    },
+    {
+
+
+            "stream":"CSE",
+            "name": "Mrs. Alokananda Dey",
+            "degree": "M.Tech (SE)",
+            "dob" : "09.03.2007",
+            "designation" : "Assistant Professor",
+            "email" : "alokananda.dey@rcciit.org.in",
+            "image": ""
+
+    },
+    {
+
+
+            "stream":"CSE",
+            "name": "Mrs. Satabdwi Sarkar",
+            "degree": "M.Tech (CT)",
+            "dob" : "26.02.2007",
+            "designation" : "Assistant Professor",
+            "email" : "satabdwi.sarkar@rcciit.org.in",
+            "image": ""
+
+    },
+    {
+
+
+            "stream":"CSE",
+            "name": "Mr. Souvik Majumdar",
+            "degree": "M.Tech (CSE)",
+            "dob" : "22.02.2019",
+            "designation" : "Assistant Professor",
+            "email" : "souvik.majumdar@rcciit.org.in",
+            "image": ""
+
+    },
+    {
+
+
+            "stream":"CSE",
+            "name": "Mr. Anirban Dey",
+            "degree": "M.Tech (CSE)",
+            "dob" : "25.02.2019",
+            "designation" : "Assistant Professor",
+            "email" : "anirban.dey@rcciit.org.in",
+            "image": ""
+
+    },
+    {
+
+
+            "stream":"CSE",
+            "name": "Mrs. Priya Sen Purkait",
+            "degree": "M.Tech (CSE)",
+            "dob" : "27.08.2019",
+            "designation" : "Assistant Professor",
+            "email" : "priyasen.purkait@rcciit.org.in",
+            "image": ""
+
+    },
+    {
+
+
+            "stream":"CSE",
+            "name": "Mr. Swapan Shakhari",
+            "degree": "M.Tech (IT)",
+            "dob" : "30.08.2019",
+            "designation" : "Assistant Professor",
+            "email" : "swapan.shakhari@rcciit.org.in",
+            "image": ""
+
+    },
+    {
+
+
+            "stream":"CSE",
+            "name": "Mr. Bishal Ghosh",
+            "degree": "M.Tech (CSE)",
+            "dob" : "15.06.2022",
+            "designation" : "Assistant Professor",
+            "email" : "bishal.ghosh@rcciit.org.in",
+            "image": ""
+
+    },
+    {
+
+
+            "stream":"ECE",
+            "name": "Dr. Ashoke Mondal",
+            "degree": "PhD (Engg.)",
+            "dob" : "15.09.2011",
+            "designation" : "Professor",
+            "email" : "hod.ece@rcciit.org.in",
+            "image": ""
+
+    },
+    {
+
+
+            "stream":"ECE",
+            "name": "Ms. Arpita Banerjee Roy",
+            "degree": "M.Tech (RPE)",
+            "dob" : "03.10.2000",
+            "designation" : "Associate Professor",
+            "email" : "arpitabanerjee.roy@rcciit.org.in",
+            "image": ""
+
+    },
+    {
+
+
+            "stream":"ECE",
+            "name": "Dr. Abhishek Basu",
+            "degree": "PhD (Engg.)",
+            "dob" : "06.02.2009",
+            "designation" : "Associate Professor",
+            "email" : "abhishek.basu@rcciit.org.in",
+            "image": ""
+
+    },
+    {
+
+
+            "stream":"ECE",
+            "name": "Dr. Soham Sarkar",
+            "degree": "PhD (Engg.)",
+            "dob" : "14.08.2008",
+            "designation" : "Associate Professor",
+            "email" : "soham.sarkar@rcciit.org.in",
+            "image": ""
+
+    },
+    {
+
+
+            "stream":"ECE",
+            "name": "Mrs. Pampa Debnath",
+            "degree": "M.Tech (ECE, Microwave)",
+            "dob" : "01.06.2007",
+            "designation" : "Assistant Professor",
+            "email" : "pampa.debnath@rcciit.org.in",
+            "image": ""
+
+    },
+    {
+
+
+            "stream":"ECE",
+            "name": "Dr. Srijibendu Bagchi",
+            "degree": "PhD (Engg.)",
+            "dob" : "04.03.2009",
+            "designation" : "Assistant Professor",
+            "email" : "srijibendu.bagchi@rcciit.org.in",
+            "image": ""
+
+    },
+    {
+
+
+            "stream":"ECE",
+            "name": "Dr. Arpan Deyasi",
+            "degree": "PhD (Engg.)",
+            "dob" : "02.03.2009",
+            "designation" : "Assistant Professor",
+            "email" : "arpan.deyasi@rcciit.org.in",
+            "image": ""
+
+    },
+    {
+
+
+            "stream":"ECE",
+            "name": "Dr. Tiya Dey Malakar",
+            "degree": "PhD (Engg.)",
+            "dob" : "10.08.2010",
+            "designation" : "Assistant Professor",
+            "email" : "tiyadey.malakar@rcciit.org.in",
+            "image": ""
+
+    },
+    {
+
+
+            "stream":"ECE",
+            "name": "Dr. Arpita Ghosh",
+            "degree": "PhD (Engg.)",
+            "dob" : "29.07.2010",
+            "designation" : "Associate Professor",
+            "email" : "arpita.ghosh@rcciit.org.in",
+            "image": ""
+
+    },
+    {
+
+
+            "stream":"ECE",
+            "name": "Mrs. Saraswati Saha",
+            "degree": "M.Tech (Micro Elect. & VLSI)",
+            "dob" : "23.09.2002",
+            "designation" : "Assistant Professor",
+            "email" : "saraswati.saha@rcciit.org.in",
+            "image": ""
+
+    },
+    {
+
+
+            "stream":"ECE",
+            "name": "Mr. Sujoy Mondal",
+            "degree": "M.Tech (RPE)",
+            "dob" : "11.07.2014",
+            "designation" : "Assistant Professor",
+            "email" : "sujoy.mondal@rcciit.org.in",
+            "image": ""
+
+    },
+    {
+
+
+            "stream":"ECE",
+            "name": "Mr. Anindya Basu",
+            "degree": "M. Tech (RPE)",
+            "dob" : "02.09.2014",
+            "designation" : "Assistant Professor",
+            "email" : "anindya.basu@rcciit.org.in",
+            "image": ""
+
+    },
+    {
+
+
+            "stream":"ECE",
+            "name": "Ms. Naiwrita Dey",
+            "degree": "M. Tech (Instrumentation)",
+            "dob" : "04.11.2013",
+            "designation" : "Assistant Professor",
+            "email" : "naiwrita.dey@rcciit.org.in",
+            "image": ""
+
+    },
+    {
+
+
+            "stream":"ECE",
+            "name": "Mr. Kalyan Biswas",
+            "degree": "M. Tech (Instrumentation & Control Engg.)",
+            "dob" : "22.08.2012",
+            "designation" : "Assistant Professor",
+            "email" : "kalyan.biswas@rcciit.org.in",
+            "image": ""
+
+    },
+    {
+
+
+            "stream":"ECE",
+            "name": "Mr. Nandan Bhattacharyya",
+            "degree": "M.Tech (RPE)",
+            "dob" : "03.07.2014",
+            "designation" : "Assistant Professor",
+            "email" : "nandan.bhattacharyya@rcciit.org.in",
+            "image": ""
+
+    },
+    {
+
+
+            "stream":"ECE",
+            "name": "Dr. Joyeeta Basu Pal",
+            "degree": "PhD (Engg.)",
+            "dob" : "30.08.2019",
+            "designation" : "Assistant Professor",
+            "email" : "joyeetabasu.pal@rcciit.org.in",
+            "image": ""
+
+    },
+    {
+
+
+            "stream":"ECE",
+            "name": "Mr. Subhrajit Sinha Roy",
+            "degree": "fdgfd",
+            "dob" : "27.08.2019",
+            "designation" : "Assistant Professor",
+            "email" : "subhrajit.sinharoy@rcciit.org.in",
+            "image": ""
+
+    },
+    {
+
+
+            "stream":"ECE",
+            "name": "Mr. Arijit Ghosh",
+            "degree": "M. Tech (Instrumentation & Control Engg.)",
+            "dob" : "16.09.2013",
+            "designation" : "Assistant Professor",
+            "email" : "arijit.ghosh@rcciit.org.in",
+            "image": ""
+
+    },
+    {
+
+
+            "stream":"ECE",
+            "name": "Dr. Apu Mistry",
+            "degree": "PhD (Engg.)",
+            "dob" : "30.08.2019",
+            "designation" : "Assistant Professor",
+            "email" : "apu.mistry@rcciit.org.in",
+            "image": ""
+
+    },
+    {
+
+
+            "stream":"ECE",
+            "name": "Mr. Srikanta Acharya",
+            "degree": "M. Tech (VLSI Design & Microelectronics)",
+            "dob" : "15.06.2022",
+            "designation" : "Assistant Professor",
+            "email" : "srikanta.acharya@rcciit.org.in",
+            "image": ""
+
+    },
+    {
+
+
+            "stream":"IT",
+            "name": "Dr. Anirban Mukherjee",
+            "degree": "PhD (Engg.)",
+            "dob" : "01.06.2001",
+            "designation" : "Professor",
+            "email" : "anirban.mukherjee@rcciit.org.in",
+            "image": ""
+
+    },
+    {
+
+
+            "stream":"IT",
+            "name": "Dr. Indrajit Pan",
+            "degree": "PhD (Engg.)",
+            "dob" : "27.02.2006",
+            "designation" : "Professor",
+            "email" : "indrajit.pan@rcciit.org.in",
+            "image": ""
+
+    },
+    {
+
+
+            "stream":"IT",
+            "name": "Dr. Hrishikesh Bhaumik",
+            "degree": "PhD (Engg.)",
+            "dob" : "01.04.2003",
+            "designation" : "Associate Professor",
+            "email" : "hrishikesh.bhaumik@rcciit.org.in",
+            "image": ""
+
+    },
+    {
+
+
+            "stream":"IT",
+            "name": "Dr. Abhijit Das",
+            "degree": "PhD (Engg.)",
+            "dob" : "21.06.2004",
+            "designation" : "Associate Professor",
+            "email" : "abhijit.das@rcciit.org.in",
+            "image": ""
+
+    },
+    {
+
+
+            "stream":"IT",
+            "name": "Dr. Soumen Mukherjee",
+            "degree": "PhD",
+            "dob" : "01.10.2004",
+            "designation" : "Professor",
+            "email" : "soumen.mukherjee@rcciit.org.in",
+            "image": ""
+
+    },
+    {
+
+
+            "stream":"IT",
+            "name": "Dr. Hiranmoy Roy",
+            "degree": "PhD (Engg.)",
+            "dob" : "01.03.2007",
+            "designation" : "Associate Professor",
+            "email" : "hiranmoy.roy@rcciit.org.in",
+            "image": ""
+
+    },
+    {
+
+
+            "stream":"IT",
+            "name": "Dr. Soumyadip Dhar",
+            "degree": "PhD (Engg.)",
+            "dob" : "12.03.2007",
+            "designation" : "Associate Professor",
+            "email" : "soumyadip.dhar@rcciit.org.in",
+            "image": ""
+
+    },
+    {
+
+
+            "stream":"IT",
+            "name": "Mrs. Abantika Choudhury",
+            "degree": "M.Tech (SE)",
+            "dob" : "06.01.2006",
+            "designation" : "Assistant Professor",
+            "email" : "abantika.choudhury@rcciit.org.in",
+            "image": ""
+
+    },
+    {
+
+
+            "stream":"IT",
+            "name": "Mrs. Moumita Deb",
+            "degree": "M.Tech (SE)",
+            "dob" : "27.01.2006",
+            "designation" : "Assistant Professor",
+            "email" : "moumita.deb@rcciit.org.in",
+            "image": ""
+
+    },
+    {
+
+
+            "stream":"IT",
+            "name": "Mr. Jayanta Datta",
+            "degree": "M.Tech (SE)",
+            "dob" : "01.01.2006",
+            "designation" : "Assistant Professor",
+            "email" : "jayanta.datta@rcciit.org.in",
+            "image": ""
+
+    },
+    {
+
+
+            "stream":"IT",
+            "name": "Mr. Ranjan Jana",
+            "degree": "M.Tech (CT)",
+            "dob" : "06.01.2006",
+            "designation" : "Assistant Professor",
+            "email" : "ranjan.jana@rcciit.org.in",
+            "image": ""
+
+    },
+    {
+
+
+            "stream":"IT",
+            "name": "Dr Pankaj Pal",
+            "degree": "PhD (Engg.)",
+            "dob" : "01.08.2008",
+            "designation" : "Assistant Professor",
+            "email" : "pankaj.pal@rcciit.org.in",
+            "image": ""
+
+    },
+    {
+
+
+            "stream":"IT",
+            "name": "Mr. Amit Khan",
+            "degree": "ME (IT)",
+            "dob" : "14.08.2014",
+            "designation" : "Assistant Professor",
+            "email" : "amit.khan@rcciit.org.in",
+            "image": ""
+
+    },
+    {
+
+
+            "stream":"IT",
+            "name": "Mr. Sudarsan Biswas",
+            "degree": "ME (ICE)",
+            "dob" : "14.08.2014",
+            "designation" : "Assistant Professor",
+            "email" : "sudarsan.biswas@rcciit.org.in",
+            "image": ""
+
+    },
+    {
+
+
+            "stream":"IT",
+            "name": "Dr. Shaswati Roy",
+            "degree": "PhD (Engg.)",
+            "dob" : "01.03.2019",
+            "designation" : "Assistant Professor",
+            "email" : "shaswati.roy@rcciit.org.in",
+            "image": ""
+
+    },
+    {
+
+
+            "stream":"IT",
+            "name": "Ms. Jayanti Das",
+            "degree": "M.Tech (IT)",
+            "dob" : "22.02.2019",
+            "designation" : "Assistant Professor",
+            "email" : "jayanti.das@rcciit.org.in",
+            "image": ""
+
+    },
+    {
+
+
+            "stream":"IT",
+            "name": "Mrs. Ahana Patra",
+            "degree": "M.Tech (CSE)",
+            "dob" : "30.08.2019",
+            "designation" : "Assistant Professor",
+            "email" : "ahana.patra@rcciit.org.in",
+            "image": ""
+
+    },
+    {
+
+
+            "stream":"IT",
+            "name": "Mr. Indronil Mazumder",
+            "degree": "M.Tech (IAR)",
+            "dob" : "28.08.2019",
+            "designation" : "Assistant Professor",
+            "email" : "indronil.mazumder@rcciit.org.in",
+            "image": ""
+
+    },
+    {
+
+
+            "stream":"IT",
+            "name": "Mr. Dipan Bandyopadhyay",
+            "degree": "M.Tech (VDME)",
+            "dob" : "28.08.2019",
+            "designation" : "Assistant Professor",
+            "email" : "dipan.bandyopadhyay@rcciit.org.in",
+            "image": ""
+
+    },
+    {
+
+
+            "stream":"IT",
+            "name": "Ms. Kalpita Dutta",
+            "degree": "dsfgdfg",
+            "dob" : "18.07.2022",
+            "designation" : "Assistant Professor",
+            "email" : "kalpita.dutta@rcciit.org.in",
+            "image": ""
+
+    },
+    {
+
+
+            "stream":"EE",
+            "name": "Dr. Alok Kole",
+            "degree": "PhD (Engg.)",
+            "dob" : "11.03.2014",
+            "designation" : "Professor",
+            "email" : "alok.kole@rcciit.org.in",
+            "image": ""
+
+    },
+    {
+
+
+            "stream":"EE",
+            "name": "Dr. Debasish Mondal",
+            "degree": "PhD (Engg.)",
+            "dob" : "22.08.2014",
+            "designation" : "Professor",
+            "email" : "debasish.mondal@rcciit.org.in",
+            "image": ""
+
+    },
+    {
+
+
+            "stream":"EE",
+            "name": "Dr. Shilpi Bhattacharya Deb",
+            "degree": "PhD (Engg.)",
+            "dob" : "02.11.2011",
+            "designation" : "Associate Professor",
+            "email" : "shilpi.bhattacharya@rcciit.org.in",
+            "image": ""
+
+    },
+    {
+
+
+            "stream":"EE",
+            "name": "Dr. Dipankar Santra",
+            "degree": "PhD (Engg.)",
+            "dob" : "01.01.2004",
+            "designation" : "Associate Professor",
+            "email" : "dipankar.santra@rcciit.org.in",
+            "image": ""
+
+    },
+    {
+
+
+            "stream":"EE",
+            "name": "Mr. Nijam Uddin Molla",
+            "degree": "ME (Power Engineering)",
+            "dob" : "01.07.2011",
+            "designation" : "Assistant Professor",
+            "email" : "nijam.ud-din.molla@rcciit.org.in",
+            "image": ""
+
+    },
+    {
+
+
+            "stream":"EE",
+            "name": "Mr. Budhaditya Biswas",
+            "degree": "ME (EE, Power System)",
+            "dob" : "30.01.2012",
+            "designation" : "Assistant Professor",
+            "email" : "budhaditya.biswas@rcciit.org.in",
+            "image": ""
+
+    },
+    {
+
+
+            "stream":"EE",
+            "name": "Mr. Sarbojit Mukherjee",
+            "degree": "M.Tech (EE)",
+            "dob" : "25.07.2012",
+            "designation" : "Assistant Professor",
+            "email" : "sarbojit.mukherjee@rcciit.org.in",
+            "image": ""
+
+    },
+    {
+
+
+            "stream":"EE",
+            "name": "Mr. Subhasis Bandopadhyay",
+            "degree": "ME (Industrial System & Drives)",
+            "dob" : "26.02.2014",
+            "designation" : "Assistant Professor",
+            "email" : "subhasis.bandopadhyay@rcciit.org.in",
+            "image": ""
+
+    },
+    {
+
+
+            "stream":"EE",
+            "name": "Mr. Deepam Gangopadhyay",
+            "degree": "M.Tech (ECE, VLSI)",
+            "dob" : "20.08.2019",
+            "designation" : "Assistant Professor",
+            "email" : "deepam.gangopadhyay@rcciit.org.in",
+            "image": ""
+
+    },
+    {
+
+
+            "stream":"AEIE",
+            "name": "Dr. Srijan Bhattacharya",
+            "degree": "PhD (Engineering)",
+            "dob" : "02.01.2014",
+            "designation" : "Assistant Professor",
+            "email" : "srijan.bhattacharya@rcciit.org.in",
+            "image": ""
+
+    },
+    {
+
+
+            "stream":"AEIE",
+            "name": "Mr. Avishek Paul",
+            "degree": "M. Tech (Instrumentation & Control Engg.)",
+            "dob" : "10.01.2014",
+            "designation" : "Assistant Professor",
+            "email" : "avishek.paul@rcciit.org.in",
+            "image": ""
+
+    }
+]

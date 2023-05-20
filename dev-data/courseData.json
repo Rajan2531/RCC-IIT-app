@@ -1,0 +1,89 @@
+[
+     {
+
+            "courseName": "Computer Science & Engineering",
+            "branch": "B.TECH",
+            "duration": "4",
+            "intake": "120",
+            "stream":"CSE"
+
+        }
+    ,
+    {
+
+
+            "courseName": "Electronics & Communication Engineering",
+            "branch": "B.TECH",
+            "duration": "4",
+            "intake": "120",
+            "stream":"ECE"
+
+
+    },
+    {
+
+            "courseName": "Information Technology",
+            "branch": "B.TECH",
+            "duration": "4",
+            "intake": "120",
+            "stream":"IT"
+
+
+    },
+    {
+
+            "courseName": "Electrical Engineering",
+            "branch": "B.TECH",
+            "duration": "4",
+            "intake": "60",
+            "stream":"EE"
+
+    },
+    {
+
+            "courseName": "APPLIED ELECTRONICS & INSTRUMENTATION Engineering",
+            "branch": "B.TECH",
+            "duration": "4",
+            "intake": "30",
+            "stream":"AEIE"
+
+      },
+    {
+
+            "courseName": "Computer Science & Engineering",
+            "branch": "M.TECH",
+            "duration": "2",
+            "intake": "18",
+            "stream":"CSE"
+
+    },
+    {
+
+            "courseName": "Computer Science & Engineering (Artificial intelligence)",
+            "branch": "M.TECH",
+            "duration": "2",
+            "intake": "18",
+            "stream":"AI"
+
+
+    },
+    {
+
+            "courseName": "VLSI and Microelectronics",
+            "branch": "M.TECH",
+            "duration": "2",
+            "intake": "12",
+            "stream":"?????"
+
+    },
+    {
+
+            "courseName": "Master in Computer Application",
+            "branch": "MCA",
+            "duration": "2",
+            "intake": "60",
+            "stream":"MCA"
+
+
+    }
+  ]

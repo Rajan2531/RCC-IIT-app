@@ -1,6 +1,10 @@
-const mongoose= require('mongoose');
+ const mongoose= require('mongoose');
 
 const courseSchema=new mongoose.Schema({
+  courseName:{
+    type:String,
+    required:true
+  },
   stream:{
 type:String,
 required:[true, "A stream must be there"]
