@@ -4,7 +4,7 @@ const path=require('path');
 const userRouter=require('./routers/userRouter.js');
 const error=require("./utils/errorHandler.js")
 const courseRouter=require('./routers/courseRouter.js');
-
+const facultyRouter= require("./routers/facultyRouter.js");
 
 const cookieParser=require("cookie-parser");
 const session=require('express-session');
@@ -49,7 +49,7 @@ app.get('/auth/google/callback',passport.authenticate('google',{failureRedirect:
 
 
 ///
-
+app.use('/api/v1/faculty',facultyRouter);
 app.use('/api/v1/users',userRouter);
 app.use('/api/v1/courses',courseRouter);
 
