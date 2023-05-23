@@ -36,8 +36,35 @@ const uploadCourseData=async()=>{
     console.log(err);
   }
 }
+
+const deleteFaculty=async()=>{
+  try{
+    const faculty= await Faculty.deleteMany();
+    console.log("deleted faculty");
+  }
+  catch(err)
+  {
+    console.log(err);
+  }
+}
+
+
+const deleteCourses=async()=>{
+  try{
+    const course= await Course.deleteMany();
+    console.log("deleted course");
+  }
+  catch(err)
+  {
+    console.log(err);
+  }
+}
 console.log(process.argv);
 if(process.argv[2]==="--import faculty")
 uploadFacultyData();
 if(process.argv[2]=="--import courses")
 uploadCourseData();
+if(process.argv[2]=="--delete faculty")
+deleteFaculty();
+if(process.argv[2]=="--delete courses")
+deleteCourses();
