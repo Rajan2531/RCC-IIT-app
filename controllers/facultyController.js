@@ -2,6 +2,22 @@ const Faculty= require("./../models/facultyModel.js");
 const catchAsync= require("./../utils/catchAsync.js")
 const appError = require("./../utils/appError.js");
 const app = require("../app.js");
+
+exports.createFaculty = catchAsync.catch(async(req,res,next)=>{
+    const {name,stream,degree,doj,designation,email} =req.body;
+    const faculty= await Faculty.create({name,stream,degree,doj,designation,email});
+    if(!faculty)
+    {
+        return next(new appError("Faculty could not be added",400));
+    }
+
+    res.status(200).json({
+        status:"success",
+        data:faculty
+    })
+})
+
+
 exports.getAllFacultyOfStream= catchAsync.catch(async(req,res,next)=>{
     const stream = req.params.stream;
     const facultyData = await Faculty.find({stream:stream});

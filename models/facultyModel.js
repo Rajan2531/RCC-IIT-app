@@ -13,7 +13,7 @@ const facultySchema= new mongoose.Schema({
     type:String,
     required:true
   },
-  dob:{
+  doj:{
     type:String,
     required:true
   },
